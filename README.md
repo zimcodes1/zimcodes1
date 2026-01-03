@@ -34,7 +34,7 @@ I build **highly-scalable applications** and combine clean architecture, efficie
 <h2 align="center">🛠️ My Tech Stack</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,python" />
-    <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,redux,sass,framer,gsap,jquery" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,redux,sass,framer,gsap,jquery" />
     <img src="https://skillicons.dev/icons?i=django,nodejs,express,fastapi" />
     <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
     <img src="https://skillicons.dev/icons?i=aws,azure,firebase,vercel,netlify,docker,nginx" />
