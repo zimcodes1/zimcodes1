@@ -8,7 +8,7 @@
 
 <p align="center">
 I have over 2 years of experience, I create high-performance web solutions using modern technologies.  
-I build **highly-scalable applications** and combine clean architecture, efficient and secured backend processes, engaging UI/UX and security best-practices to give out optimum performance and security.
+I build highly-scalable applications and combine clean architecture, efficient and secured backend processes, engaging UI/UX and security best-practices to give out optimum performance and security.
 </p>
 
 ---
@@ -20,7 +20,7 @@ I build **highly-scalable applications** and combine clean architecture, efficie
 
  🔍 **Researching:** Advanced DevOps workflows & cloud-native architectures
   <br/>
-  
+
  🚀 **Goal:** Build solutions that, are secured, scalable, follow best practices, and are production-ready.
 
 </div>
