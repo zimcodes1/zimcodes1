@@ -16,7 +16,11 @@ I build **highly-scalable applications** and combine clean architecture, efficie
 <div align="center">
  
  🕶️ **Working on:** Django & React.js applications.
+ <br/>
+
  🔍 **Researching:** Advanced DevOps workflows & cloud-native architectures
+  <br/>
+  
  🚀 **Goal:** Build solutions that, are secured, scalable, follow best practices, and are production-ready.
 
 </div>
