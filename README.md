@@ -38,11 +38,12 @@ I build highly-scalable applications and combine clean architecture, efficient a
 <h2 align="center">🛠️ My Stack</h2>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,reactnative,expo" />
+</br>
     <img src="https://skillicons.dev/icons?i=django,nodejs,express,fastapi" />
     <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
     <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,figma" />
     <img src="https://skillicons.dev/icons?i=aws,azure,firebase,vercel,netlify,docker,nginx" />
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,redux,sass,framer,gsap,jquery" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,redux,sass,jquery" />
 </div>
 
 ---
