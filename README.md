@@ -35,14 +35,14 @@ I build highly-scalable applications and combine clean architecture, efficient a
 
 ---
 
-<h2 align="center">🛠️ My Tech Stack</h2>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python" />
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,redux,sass,framer,gsap,jquery" />
+<h2 align="center">🛠️ My Stack</h2>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,reactnative,expo" />
     <img src="https://skillicons.dev/icons?i=django,nodejs,express,fastapi" />
     <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
-    <img src="https://skillicons.dev/icons?i=aws,azure,firebase,vercel,netlify,docker,nginx" />
     <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,firebase,vercel,netlify,docker,nginx" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,redux,sass,framer,gsap,jquery" />
 </div>
 
 ---
@@ -53,8 +53,7 @@ I build highly-scalable applications and combine clean architecture, efficient a
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=zimcodes1&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=zimcodes1&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
-  <br/><br/>    
-    <img src="https://github-profile-trophy.vercel.app/?username=zimcodes1&theme=juicyfresh&no-bg=true" />
+  <br/><br/>
 </div>
 
 ---
